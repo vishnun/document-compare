@@ -26,3 +26,7 @@ Make virtual env:
 
 Activate the virtual env:  
 `. venv/bin/activate`
+
+
+Create the setup file if it doesn't exist:  
+`py2applet --make-setup document_compare_app.py`
